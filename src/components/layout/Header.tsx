@@ -37,7 +37,7 @@ export default function Header() {
           : "bg-transparent py-4"
       }`}
     >
-      <div className="container flex items-center justify-between text-black ml-11">
+      <div className="container flex items-center justify-between text-black">
         <Link href="/" className="flex items-center gap-2">
           <div className="relative h-10 w-10 ml-11">
             <div className="absolute inset-0 bg-primary rounded-md flex items-center justify-center text-black font-bold text-xl">
